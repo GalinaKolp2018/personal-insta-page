@@ -24,7 +24,7 @@ $(document).ready(function(){
 
 		// Показываем активную фотографию
 		$(slides[slideIndex-1]).show();
-		setTimeout(showPhotos, 300);
+		setTimeout(showPhotos, 500);
 
 	}
 

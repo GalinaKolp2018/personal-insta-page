@@ -13,7 +13,7 @@ $(document).ready(function(){
     
     setTimeout(function(){
         
-        $('.instafeed a').addClass('.shadowed');
+        $('.instafeed').addClass('.shadowed');
     }, 100 );
 
 
