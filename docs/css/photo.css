@@ -5,11 +5,9 @@
 	align-items: center;
 	margin-bottom: 70px;
 }
-
- .photo img {
-    display: none;
-}
-
+/* .photo img {
+	display: none;
+} */
 .instafeed {
 	width: 640px;
 	height: 620px;
@@ -18,9 +16,9 @@
 	opacity: 0;
 }
 
-.instafeed a {
-	display: none;
-}
+  .instafeed a {
+  	display: none;
+  }  
 
 .shadowed {
 	opacity: 1;
