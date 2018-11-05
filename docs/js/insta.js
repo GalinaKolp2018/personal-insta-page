@@ -13,8 +13,8 @@ $(document).ready(function(){
     
     setTimeout(function(){
         
-        $('.instafeed').addClass('.shadowed');
+        $('.instafeed').addClass('shadowed');
     }, 100 );
 
 
-});
+}); 
